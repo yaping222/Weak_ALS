@@ -1,4 +1,4 @@
-# Weakly Supervised Semantic Segmentation of Airborne Lader Scanning Point Clouds
+# Weakly Supervised Semantic Segmentation of Airborne Lider Scanning Point Clouds
 Python 3.6
 
 Pytorch 1.4.0
